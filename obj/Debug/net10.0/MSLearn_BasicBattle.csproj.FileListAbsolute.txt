@@ -1,0 +1,14 @@
+C:\Users\mclowes\Documents\VSCode\C#\MSLearn_BasicBattle\obj\Debug\net10.0\MSLearn_BasicBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mclowes\Documents\VSCode\C#\MSLearn_BasicBattle\obj\Debug\net10.0\MSLearn_BasicBattle.AssemblyInfoInputs.cache
+C:\Users\mclowes\Documents\VSCode\C#\MSLearn_BasicBattle\obj\Debug\net10.0\MSLearn_BasicBattle.AssemblyInfo.cs
+C:\Users\mclowes\Documents\VSCode\C#\MSLearn_BasicBattle\obj\Debug\net10.0\MSLearn_BasicBattle.csproj.CoreCompileInputs.cache
+C:\Users\mclowes\Documents\VSCode\C#\MSLearn_BasicBattle\bin\Debug\net10.0\MSLearn_BasicBattle.exe
+C:\Users\mclowes\Documents\VSCode\C#\MSLearn_BasicBattle\bin\Debug\net10.0\MSLearn_BasicBattle.deps.json
+C:\Users\mclowes\Documents\VSCode\C#\MSLearn_BasicBattle\bin\Debug\net10.0\MSLearn_BasicBattle.runtimeconfig.json
+C:\Users\mclowes\Documents\VSCode\C#\MSLearn_BasicBattle\bin\Debug\net10.0\MSLearn_BasicBattle.dll
+C:\Users\mclowes\Documents\VSCode\C#\MSLearn_BasicBattle\bin\Debug\net10.0\MSLearn_BasicBattle.pdb
+C:\Users\mclowes\Documents\VSCode\C#\MSLearn_BasicBattle\obj\Debug\net10.0\MSLearn_BasicBattle.dll
+C:\Users\mclowes\Documents\VSCode\C#\MSLearn_BasicBattle\obj\Debug\net10.0\refint\MSLearn_BasicBattle.dll
+C:\Users\mclowes\Documents\VSCode\C#\MSLearn_BasicBattle\obj\Debug\net10.0\MSLearn_BasicBattle.pdb
+C:\Users\mclowes\Documents\VSCode\C#\MSLearn_BasicBattle\obj\Debug\net10.0\MSLearn_BasicBattle.genruntimeconfig.cache
+C:\Users\mclowes\Documents\VSCode\C#\MSLearn_BasicBattle\obj\Debug\net10.0\ref\MSLearn_BasicBattle.dll
